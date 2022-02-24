@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SBO_Teste-Web.config Connection String" description="SBO_Teste A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="Data Source=DESKTOP-AHEJAEO\SAP;Initial Catalog=SBO_Teste;uid=sa;password=@up@sap13;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\desen\\source\\repos\\1a_Projetos-thiagoApolonio\\DefaultWebProject\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SBO_Teste']/@connectionString" />
+  </parameter>
+</parameters>

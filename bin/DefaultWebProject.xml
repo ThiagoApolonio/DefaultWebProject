@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DefaultWebProject</name>
+    </assembly>
+    <members>
+        <member name="M:DefaultWebProject.Controllers.PedidoDeVendaController.AdicionarPedidoDeVenda(System.Collections.Generic.List{DefaultWebProject.Models.PedidoDeVendaModel},System.String)">
+            <summary>
+            Adcionar Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.BusinessPartnerController.Login">
+            <summary>
+            Faça Seu Login Aqui 
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.BusinessPartnerController.GetPartnersList">
+            <summary>
+            Busque um PN via Json BusinessPartnerModel
+            </summary> 
+            <returns></returns>  
+        </member>
+        <member name="M:DefaultWebProject.Controllers.BusinessPartnerController.PostPn(DefaultWebProject.Models.BusinessPartnerModel)">
+            <summary>
+            Manutenção
+            </summary> 
+            <returns></returns>  
+        </member>
+        <member name="M:DefaultWebProject.Controllers.BusinessPartnerController.PutPn(DefaultWebProject.Models.BusinessPartnerModel)">
+            <summary>
+            Manutenção
+            </summary> 
+            <returns></returns>          
+        </member>
+        <member name="M:DefaultWebProject.Controllers.CategoriaMarcaController.GetCategoriaMarca(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.CategoriaMarcaController.GetCategoriaMarcaID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ClientesporFilialController.GetClientesporFilial(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ClientesporFilialController.GetClientesporFilial(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ClientesUsuariosController.GetCliente(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ClientesUsuariosController.GetClienteID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.CondicoesController.GetCondicoesPagamento(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.CondicoesController.GetCondicoesPagamentoID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ContatoController.GetContato(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ContatoController.GetContatoID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.DescontoClienteController.GetDescontoCliente(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.DescontoClienteController.GetDescontoClienteID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.DiasCondicoesPagamentoController.GetDiasCondicoesPagamento(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.DiasCondicoesPagamentoController.GetDiasCondicoesPagamentoID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FabricanteController.GetFabricante(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FabricanteController.GetFabricante(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FiliaisControllers.GetFilial(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FiliaisControllers.GetFilialID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FormaPagamentoPorClienteController.GetFormaPagamentoPorCliente(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FormaPagamentoPorClienteController.GetFormaPagamentoPorClienteID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FormasPagamentoController.GetFormasPagamento(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FormasPagamentoController.GetFormasPagamentoID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FornecedoresController.GetFornecedores(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.FornecedoresController.GetFornecedoresId(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.HistoricoPedidoItemController.GetHistoricoPedidoItem(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.HistoricoPedidoItemController.GetHistoricoPedidoItemID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.HistoricoPedidoStatusController.GetHistoricoPedidoStatus(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.HistoricoPedidoStatusController.GetHistoricoPedidoStatusID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ItemController.GetItemList">
+            <summary>
+            GetItemList
+            </summary> 
+            <returns></returns>  
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ItemController.GetItem(System.String)">
+            <summary>
+            GetItem(ID)
+            </summary> 
+            <returns></returns>  
+        </member>
+        <member name="M:DefaultWebProject.Controllers.JournalVouchersController.Login">
+            <summary>
+            Primeiro Gere Seu Token Após Faça Login Aqui 
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.JournalVouchersController.GetOJDTList">
+            <summary>
+            GetOJDTList
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.JournalVouchersController.GetOJDT(System.Int32)">
+            <summary>
+            GetOJDT(ID)
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.JournalVouchersController.AddLcmXml(System.String)">
+            <summary>
+            Faça o Lançamento Por Aqui Com Base No XML Enviado
+            </summary> 
+            <returns></returns>
+        </member>
+        <member name="M:DefaultWebProject.Controllers.JournalVouchersController.AddLcmJson(DefaultWebProject.Models.BodyModel)">
+            <summary>
+            Faça o Lançamento Por Aqui Com Base No Json Enviado
+            </summary> 
+            <returns></returns>
+        </member>
+        <member name="M:DefaultWebProject.Controllers.PedidoTipoController.GetPedidoTipo(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.PedidoTipoController.GetPedidoTipoID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.PendenciasFinanceirasController.GetPendenciasFinanceiras(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.PendenciasFinanceirasController.GetPendenciasFinanceirasID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ProdutosController.GetProdutos(System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+        <member name="M:DefaultWebProject.Controllers.ProdutosController.GetProdutosID(System.String,System.String)">
+            <summary>
+            Busca Informações Do E-commerce Sap Selecione o Banco de Dados Desejado Insira o Valor De <BaseId>?</BaseId> Contida No Documento SAPCredetials.xml
+            </summary> 
+            <returns></returns> 
+        </member>
+    </members>
+</doc>

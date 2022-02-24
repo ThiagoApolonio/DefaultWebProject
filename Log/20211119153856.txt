@@ -1,0 +1,17 @@
+ ## 20211119153856 ### #################################
+ ## 20211119153856 ### INICIADO MAPEAMENTO DE PARCEIRO DE NEGOCIO 
+ INICIADO VALIDAÇÃO DOS CAMPOS DE PARCEIRO DE NEGOCIO
+ ## 20211119160030 ### #####################################################################
+ ## 20211119160030 ### RECUPERANDO CREDENCIAIS
+ ## 20211119160030 ### SUCESSO: TOKEN - gUw+yERyjsg6rB6yGSq93XFWiBWkyDnYCkajbNJRPA8Zu7/sid+6ByD6OX/tEj3bjJw50af9tOFosfJ2MHSw2Q==
+ ## 20211119160036 ### #####################################################################
+ ## 20211119160036 ### VALIDAÇÃO DE LOGIN POR TOKEN
+ ## 20211119160036 ### INICIA VALIDAÇÃO DE TOKEN
+ ## 20211119160038 ### VALIDAÇÃO REALIZADA COM SUCESSO!
+ ## 20211119160038 ### EMPRESAS LOGADAS: DefaultWebProject.Tokken.Sapcredentials
+ ## 20211119160106 ### #####################################################################
+ ## 20211119160106 ### INICIANDO
+ ## 20211119160106 ### VALIDANDO CONEXÃO COM SAP!
+ ## 20211119160106 ### #################################
+ ## 20211119160106 ### INICIADO MAPEAMENTO DE PARCEIRO DE NEGOCIO 
+ INICIADO VALIDAÇÃO DOS CAMPOS DE PARCEIRO DE NEGOCIO

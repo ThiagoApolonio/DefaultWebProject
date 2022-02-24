@@ -1,0 +1,21 @@
+ ## 20211118160305 ### #################################
+ ## 20211118160307 ### INICIADO MAPEAMENTO DE PARCEIRO DE NEGOCIO 
+ INICIADO VALIDAÇÃO DOS CAMPOS DE PARCEIRO DE NEGOCIO
+ ## 20211118161256 ### #####################################################################
+ ## 20211118161256 ### INICIANDO
+ ## 20211118161301 ### ERRO AO ADICIONAR PN TOKEN INVALIDO OU EXPIRADO
+ ## 20211118161308 ### #####################################################################
+ ## 20211118161308 ### RECUPERANDO CREDENCIAIS
+ ## 20211118161308 ### SUCESSO: TOKEN - AzF2qI+IGk7EvtqK0UErU3GMGnTo1xWXu6k3NwNkzmBluE/LA7iY3J6uFPctC2v9DE1iDgu9v4X4Uc7Yn1evsw==
+ ## 20211118161310 ### #####################################################################
+ ## 20211118161310 ### VALIDAÇÃO DE LOGIN POR TOKEN
+ ## 20211118161310 ### INICIA VALIDAÇÃO DE TOKEN
+ ## 20211118161315 ### VALIDAÇÃO REALIZADA COM SUCESSO!
+ ## 20211118161315 ### EMPRESAS LOGADAS: DefaultWebProject.Tokken.Sapcredentials
+ ## 20211118161318 ### #####################################################################
+ ## 20211118161318 ### INICIANDO
+ ## 20211118161318 ### VALIDANDO CONEXÃO COM SAP!
+ ## 20211118161318 ### #################################
+ ## 20211118161318 ### INICIADO MAPEAMENTO DE PARCEIRO DE NEGOCIO 
+ INICIADO VALIDAÇÃO DOS CAMPOS DE PARCEIRO DE NEGOCIO
+ ## 20211118161321 ### ERRO DE VALIDAÇÃO SEM CARD CODE
